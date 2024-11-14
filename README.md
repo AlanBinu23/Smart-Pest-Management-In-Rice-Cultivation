@@ -34,6 +34,7 @@ methods like pesticides are effective but it is difficult to manually monitor la
 fields leading to overuse of these pesticides that can have lasting effects on the
 ecosystem and even the health of the consumer. Mechanical methods also suffer
 drawbacks in effectiveness due to lack of monitoring.
+
 1.2 Objective
 
 We aim to build software that can use sensors and Machine Learning to
